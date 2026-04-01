@@ -1,3 +1,6 @@
+## Demo
+
+![App Screenshot](Screenshot 2026-04-01 163457.png)
 # Spam Message Classifier
 
 A machine learning web app that classifies messages as Spam or Not Spam.
